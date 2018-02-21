@@ -1,0 +1,39 @@
+[
+  {
+    "type": "DM1",
+    "context" : {
+      "banane" : 0.254,
+      "carotte" : 0.354,
+      "patate" : 0.7854,
+      "girafe" : 0.84,
+      "chien" : 0.12145
+    }
+  },
+  {
+    "type": "DM1",
+    "context" : {
+      "banane" : 0.254,
+      "carotte" : 0.354,
+      "girafe" : 0.84,
+      "chien" : 0.12145
+    }
+  },
+  {
+    "type": "DM1",
+    "context" : {
+      "banane" : 0.254,
+      "carotte" : 0.354,
+      "patate" : 0.7854,
+      "girafe" : 0.84,
+      "chat" : 0.12145
+    }
+  },
+  {
+    "type": "DM3",
+    "context" : {
+      "carotte" : 0.354,
+      "chien" : 0.12145,
+      "girafe" : 0.2
+    }
+  }
+]
