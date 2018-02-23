@@ -1,0 +1,21 @@
+{
+  "être VER:pres" : 0.8977,
+  "permettre VER:pres" : 1.2804,
+  "classification NOM" : 2.2184,
+  "sorte NOM" : 2.2722,
+  "hypo/hyperonymie NOM" : 4.2886,
+  "inclusion NOM" : 3.3856,
+  "expliciter VER:infi" : 3.2376,
+  "savoir VER:pres" : 2.4747,
+  "exclusivement ADV" : 2.9064,
+  "hiérarchique ADJ" : 3.12,
+  "assertion NOM" : 3.1544,
+  "nombreux ADJ" : 1.7708,
+  "pas ADV" : 0.8654,
+  "relation NOM" : 2.4752,
+  "ne ADV" : 0.7094,
+  "avoir VER:infi" : 1.787,
+  "réserver VER:pper" : 2.81,
+  "structure NOM" : 1.4398,
+  "signaler VER:pper" : 2.8456
+}
